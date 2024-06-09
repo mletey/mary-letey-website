@@ -16,7 +16,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-may-2024.pdf
+    link: uploads/mary-letey-june-2024.pdf
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
