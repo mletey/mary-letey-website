@@ -9,7 +9,6 @@ sections:
     content:
       title: Hello There!
       username: admin
-    noindex: true
 
   - block: collection
     id: featured
