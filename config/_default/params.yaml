@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme: marys-purple-light
+  theme_night: marys-purple-dark
   #theme_night: marys-purple-dark
   font: mary-serif
   font_size: S
