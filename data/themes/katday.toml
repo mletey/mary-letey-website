@@ -14,8 +14,11 @@ name = "Kat_Light"
   # Backgrounds
   #background = "F1EFEF"
   home_section_odd = "E7E1E1"
-  home_section_even = "F1EFEF"
+  home_section_even = "DFD8D8"
 
+  link = "#A17DA9"
+  link_hover = "#7DA6A9"
+  link_decoration = "underline"
 
 # light = false
 
