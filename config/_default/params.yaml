@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_night: marys-purple-dark
-  #theme_night: marys-purple-dark
-  font: mary-serif
-  font_size: S
+  theme_night: coffee
+  theme_night: coffee
+  font: classic
+  font_size: XS
 
 # SEO
 
@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
