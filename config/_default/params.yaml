@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_night: coffee
+  theme_day: coffee
   font: classic
   font_size: XS
 
