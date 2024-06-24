@@ -12,7 +12,7 @@ name = "Kat"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "F1EFEF"
+  #background = "F1EFEF"
   home_section_odd = "E7E1E1"
   home_section_even = "F1EFEF"
 
