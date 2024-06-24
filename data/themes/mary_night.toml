@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Mary_Night"
+
+[dark]
+  # Primary
+  primary = "#D6E2FF"
+
+  # Menu
+  menu_primary = "#D5D5F0" #"#543D35"
+  menu_text = "#000000" 
+  menu_text_active = "#000000"
+  menu_title = "#000000"
+
+  # Backgrounds
+  #background = "#F1EFEF"
+  home_section_odd = "#0A0A42"
+  home_section_even = "#151557"
+
+  link = "#D6E2FF"
+  link_hover = "#FFF4D6"
+  link_decoration = "underline"
