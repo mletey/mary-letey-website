@@ -13,7 +13,7 @@ name = "Mary_Night"
 
   # Backgrounds
   #background = "#F1EFEF"
-  home_section_odd = "#0A0A42"
+  home_section_odd = "#202024"
   home_section_even = "#151557"
 
   link = "#D6E2FF"
