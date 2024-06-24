@@ -14,7 +14,7 @@ name = "Mary_Night"
   # Backgrounds
   #background = "#F1EFEF"
   home_section_odd = "#202024"
-  home_section_even = "#151557"
+  home_section_even = "#534D64"
 
   link = "#D6E2FF"
   link_hover = "#FFF4D6"
