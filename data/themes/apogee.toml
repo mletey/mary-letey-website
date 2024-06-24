@@ -3,14 +3,14 @@ name = "Apogee"
 
 [dark]
   # Primary
-  primary = "#EAF04E"
+  primary = "#E5DFE6"
 
   # Menu
   menu_primary = "#5E3867"
-  menu_text = "#F2BE4E"
-  menu_text_active = "#FFE1A0"
-  menu_title = "#E0A526"
+  menu_text = "#FBFFFD"
+  menu_text_active = "#FFFFFF"
+  menu_title = "#FFFFFF"
 
   # Home sections
-  home_section_odd = "#30073A"
-  home_section_even = "#B911E1"
+  home_section_odd = "#270230"
+  home_section_even = "#30073A"
