@@ -38,8 +38,8 @@ module:
 #favicon: favicon.ico
 #icon: favicon.ico
 enableGitInfo: false
-summaryLength: 30
-paginate: 10
+summaryLength: 5
+paginate: 5
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
