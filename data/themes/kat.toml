@@ -16,6 +16,11 @@ name = "Kat"
   home_section_odd = "E7E1E1"
   home_section_even = "F1EFEF"
 
+    # Links
+  link = "#7DA2A9"
+  link_hover = "#547C84"
+  #link_decoration = "underline"
+
 # light = false
 
 
