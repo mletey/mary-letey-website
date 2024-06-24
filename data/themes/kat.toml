@@ -27,6 +27,6 @@ name = "Kat"
   menu_title = "#000000"
 
   # Backgrounds
-  background = "30073A"
+  #background = "30073A"
   home_section_odd = "30073A"
   home_section_even = "30073A"
