@@ -3,8 +3,8 @@ name = "Kat"
 
 [light]
   # Primary
-  primary = "#EEFF20"
-#A17DA9
+  primary = "#A17DA9"
+
   # Menu
   menu_primary = "#5E3867" #"#543D35"
   menu_text = "rgba(255,255,255,0.6)" 
@@ -16,10 +16,6 @@ name = "Kat"
   home_section_odd = "E7E1E1"
   home_section_even = "F1EFEF"
 
-    # Links
-  link = "#7DA2A9"
-  link_hover = "#547C84"
-  #link_decoration = "underline"
 
 # light = false
 
