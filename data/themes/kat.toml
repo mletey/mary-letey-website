@@ -1,20 +1,22 @@
 # Theme metadata
 name = "Kat"
 
-[light]
-  # Primary
-  primary = "#A17DA9"
+# [light]
+#   # Primary
+#   primary = "#A17DA9"
 
-  # Menu
-  menu_primary = "#5E3867" #"#543D35"
-  menu_text = "rgba(255,255,255,0.6)" 
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "#fff"
+#   # Menu
+#   menu_primary = "#5E3867" #"#543D35"
+#   menu_text = "rgba(255,255,255,0.6)" 
+#   menu_text_active = "rgba(255,255,255,1)"
+#   menu_title = "#fff"
 
-  # Backgrounds
-  background = "F1EFEF"
-  home_section_odd = "E7E1E1"
-  home_section_even = "F1EFEF"
+#   # Backgrounds
+#   background = "F1EFEF"
+#   home_section_odd = "E7E1E1"
+#   home_section_even = "F1EFEF"
+
+light = false
 
 [dark]
   # Primary
@@ -27,6 +29,6 @@ name = "Kat"
   menu_title = "#000000"
 
   # Backgrounds
-  #background = "30073A"
+  background = "30073A"
   home_section_odd = "30073A"
   home_section_even = "30073A"
