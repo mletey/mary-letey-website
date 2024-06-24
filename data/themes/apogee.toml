@@ -14,3 +14,7 @@ name = "Apogee"
   # Home sections
   home_section_odd = "#18011E"
   home_section_even = "#30073A"
+
+  link = "#E5DFE6"
+  link_hover = "#DFE6E3"
+  link_decoration = "underline"
