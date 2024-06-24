@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
 bio: Mathematician interested in complex systems, physics, and geometry.
-logo: logo.png
 social:
   - icon: paper-plane
     icon_pack: fas
