@@ -60,5 +60,5 @@ I enjoy learning about and working in a wide range of Applied Maths areas, from 
 
 If I'm not doing maths, there's a 99% chance I'll be practicing calisthenics (many handstands), baking a pie, knitting, or on a hike.
 
-I am always happy to discuss cool maths and related topics, please reach out if you're interested!
+I'm always happy to discuss cool maths and related topics, please reach out if you're interested!
 {style="text-align: justify;"}
