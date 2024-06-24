@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: marys-purple-light
-  theme_night: marys-purple-dark
+  theme: marys-purple-light
+  #theme_night: marys-purple-dark
   font: mary-serif
   font_size: S
 
@@ -73,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   comment:
     provider: ''
     disqus:
