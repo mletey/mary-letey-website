@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: kat
-  theme_night: kat
+  theme_night: kat-dark
   font: mary-serif
   font_size: S
 
