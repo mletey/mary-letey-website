@@ -32,8 +32,8 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 5
-paginate: 5
+summaryLength: 30
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
