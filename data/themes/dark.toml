@@ -11,6 +11,5 @@ name = "Dark"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "30073A"
   home_section_odd = "30073A"
   home_section_even = "30073A"
