@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Mary_Day"
+
+[light]
+  # Primary
+  primary = "#7876A2"
+
+  # Menu
+  menu_primary = "#35356B" #"#543D35"
+  menu_text = "#FFFFFF" 
+  menu_text_active = "#FFFFFF"
+  menu_title = "#FFFFFF"
+
+  # Backgrounds
+  #background = "#F1EFEF"
+  home_section_odd = "#E7E1E1"
+  home_section_even = "#F1EFEF"
+
+  link = "#7876A2"
+  link_hover = "#563C3F"
+  link_decoration = "underline"
