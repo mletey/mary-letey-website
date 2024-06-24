@@ -6,7 +6,6 @@
 # Appearance
 
 appearance:
-  theme_day: kat
   theme_night: kat
   font: mary-serif
   font_size: S
@@ -35,7 +34,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
