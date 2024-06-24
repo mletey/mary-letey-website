@@ -6,9 +6,6 @@
 title: Mary Letey
 baseURL: 'https://maryiletey.com/' # Website URL
 enableRobotsTXT: true
-#theme:
-  #logo: logo.png
-  #favicon: favicon.ico
 
 ############################
 ## LANGUAGE
@@ -24,7 +21,6 @@ removePathAccents: true
 ############################
 
 module:
-  #favicon: favicon.ico
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
@@ -35,8 +31,6 @@ module:
 ## ADVANCED
 ############################
 
-#favicon: favicon.ico
-#icon: favicon.ico
 enableGitInfo: false
 summaryLength: 5
 paginate: 5
@@ -71,9 +65,9 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 5
     - name: categories
-      weight: 70
+      weight: 5
 security:
   _merge: deep
 sitemap:
