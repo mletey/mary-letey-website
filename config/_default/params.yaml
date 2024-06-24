@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  theme_day: kat
   theme_night: kat
   font: mary-serif
   font_size: S
