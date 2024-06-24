@@ -15,9 +15,6 @@ title: Scattering Amplitudes and Colour Ordering
 tags:
   - Physics
 links: []
-image: 
-  size: smart
-url_image: ./featured.jpg
 url_code: ""
 ---
 
