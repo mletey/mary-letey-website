@@ -3,8 +3,8 @@ name = "Kat"
 
 [light]
   # Primary
-  primary = "#A17DA9"
-
+  primary = "#EEFF20"
+#A17DA9
   # Menu
   menu_primary = "#5E3867" #"#543D35"
   menu_text = "rgba(255,255,255,0.6)" 
