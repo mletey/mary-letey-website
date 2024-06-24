@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: kat
-  theme_night: apogee
+  theme_day: katday
+  theme_night: katnight
   font: mary-serif
   font_size: S
 
