@@ -6,9 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: marys-purple-light
+  font: mary-serif
   font_size: S
 
 # SEO
