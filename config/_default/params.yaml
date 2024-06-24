@@ -7,6 +7,7 @@
 
 appearance:
   theme_day: marys-purple-light
+  theme_night: minimal
   font: mary-serif
   font_size: S
 
