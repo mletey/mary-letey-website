@@ -5,13 +5,9 @@ social:
   - icon: paper-plane
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
-    display:
-      header: true
   - icon: user-graduate
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
-    display:
-      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/mary-letey-june-2024.pdf
@@ -30,8 +26,6 @@ social:
   - icon: square-twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
-    display:
-      header: true
 education:
   courses:
     - course: PhD in Applied Mathematics
@@ -49,7 +43,6 @@ organizations:
   - name: Harvard University
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 highlight_name: true
-title: Mary Letey
 first_name: Mary
 last_name: Letey
 email: ""
