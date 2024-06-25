@@ -39,6 +39,7 @@ education:
       year: 2018 - 2022
 superuser: true
 role: [PhD Student in Applied Mathematics](https://pehlevan.seas.harvard.edu/people/mary-letey)
+
 highlight_name: true
 title: Mary Letey
 first_name: Mary
