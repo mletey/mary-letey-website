@@ -38,7 +38,7 @@ education:
       institution: University of Cambridge, St Johns College
       year: 2018 - 2022
 superuser: true
-role:
+organizations:
   - name: PhD Student in Applied Mathematics
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 highlight_name: true
