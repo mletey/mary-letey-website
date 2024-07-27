@@ -2,20 +2,37 @@
 name = "Mary_Day"
 
 [light]
-  # Primary
-  primary = "#7876A2"
+  # Primary = Buttons, links, accent text
+  primary = "#757179" 
 
   # Menu
-  menu_primary = "#35356B" #"#543D35"
-  menu_text = "#FFFFFF" 
-  menu_text_active = "#FFFFFF"
-  menu_title = "#FFFFFF"
+  menu_primary = "#B6B6D5" # Upper header block color
+  menu_text = "#000000" 
+  menu_text_active = "#555563"
+  menu_title = "#000000"
 
   # Backgrounds
-  #background = "#F1EFEF"
-  home_section_odd = "#E7E1E1"
-  home_section_even = "#F1EFEF"
+  home_section_odd = "#E6E5E7"
+  home_section_even = "#E9E3F1"
 
-  link = "#7876A2"
+  link = "#696CAB"
   link_hover = "#563C3F"
-  link_decoration = "underline"
+  #link_decoration = "underline"
+  
+# [light]
+#   # Primary = Buttons, links, accent text
+#   primary = "#7876A2" 
+
+#   # Menu
+#   menu_primary = "#35356B" # Upper header block color
+#   menu_text = "#FFFFFF" 
+#   menu_text_active = "#FFFFFF"
+#   menu_title = "#FFFFFF"
+
+#   # Backgrounds
+#   home_section_odd = "#E7E1E1"
+#   home_section_even = "#F1EFEF"
+
+#   link = "#7876A2"
+#   link_hover = "#563C3F"
+#   link_decoration = "underline"
