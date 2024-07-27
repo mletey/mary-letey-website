@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: mary_day
-  theme_night: mary_night
   font: mary-serif
   font_size: S
 
@@ -35,7 +34,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
