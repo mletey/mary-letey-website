@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Mary Letey, {year}. All content is mine, under MIT licence'
+    notice: '© Mary Letey, {year}. All content is mine.'
     # license:
     #   enable: true
     #   allow_derivatives: false
