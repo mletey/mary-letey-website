@@ -13,7 +13,7 @@ name = "Mary_Day"
 
   # Backgrounds
   home_section_odd = "#FAFAFA"
-  home_section_even = "#E6E5E7"
+  home_section_even = "#EDECEE"
 
   # link color = text links + buttons on main page
   link = "#6166DC"
