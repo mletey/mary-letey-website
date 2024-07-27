@@ -3,19 +3,37 @@ name = "Mary_Night"
 
 [dark]
   # Primary
-  primary = "#D6E2FF"
+  primary = "#757179"
 
   # Menu
-  menu_primary = "#D5D5F0" #"#543D35"
-  menu_text = "#000000" 
-  menu_text_active = "#000000"
-  menu_title = "#000000"
+  menu_primary = "#757179" #"#543D35"
+  menu_text = "#FFFFFF" 
+  menu_text_active = "#FAFAFA"
+  menu_title = "#FFFFFF"
 
   # Backgrounds
   #background = "#F1EFEF"
-  home_section_odd = "#202024"
-  home_section_even = "#202024"
+  home_section_odd = "#111216"
+  home_section_even = "#030405"
 
-  link = "#D6E2FF"
-  link_hover = "#FFF4D6"
-  link_decoration = "underline"
+  link = "#E9DAAC"
+  link_hover = "#E9DAAC"
+  
+# [dark]
+#   # Primary
+#   primary = "#D6E2FF"
+
+#   # Menu
+#   menu_primary = "#D5D5F0" #"#543D35"
+#   menu_text = "#000000" 
+#   menu_text_active = "#000000"
+#   menu_title = "#000000"
+
+#   # Backgrounds
+#   #background = "#F1EFEF"
+#   home_section_odd = "#202024"
+#   home_section_even = "#202024"
+
+#   link = "#D6E2FF"
+#   link_hover = "#FFF4D6"
+#   link_decoration = "underline"
