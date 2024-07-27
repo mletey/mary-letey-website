@@ -2,7 +2,7 @@
 name = "Mary_Day"
 
 [light]
-  # Primary = Buttons, links, accent text
+  # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
   primary = "#757179" 
 
   # Menu
@@ -13,10 +13,11 @@ name = "Mary_Day"
 
   # Backgrounds
   home_section_odd = "#E6E5E7"
-  home_section_even = "#E9E3F1"
+  home_section_even = "#E2E1E5"
 
-  link = "#696CAB"
-  link_hover = "#563C3F"
+  # link color = text links + buttons on main page
+  link = "#6166DC"
+  link_hover = "#6197DC"
   #link_decoration = "underline"
   
 # [light]
