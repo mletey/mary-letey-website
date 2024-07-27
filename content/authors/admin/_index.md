@@ -41,7 +41,7 @@ superuser: true
 organizations:
   - name: PhD Student in Applied Mathematics
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
-highlight_name: true
+highlight_name: false
 title: Mary Letey
 first_name: Mary
 last_name: Letey
