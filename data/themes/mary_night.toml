@@ -12,6 +12,7 @@ name = "Mary_Night"
   menu_title = "#000000"
 
   # Backgrounds
+  background = "#F1A95C"
   home_section_odd = "#050505"
   home_section_even = "#121311"
 
