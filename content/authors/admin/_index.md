@@ -23,7 +23,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mletey
-  - icon: square-x-twitter
+  - icon: square-twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
 education:
