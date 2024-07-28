@@ -7,6 +7,7 @@
 
 appearance:
   theme_day: mary_day
+  theme_night: mary_night
   font: mary-serif
   font_size: S
 
