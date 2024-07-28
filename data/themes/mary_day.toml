@@ -3,7 +3,7 @@ name = "Mary_Day"
 
 [light]
   # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
-  primary = "#757179" 
+  primary = "#6166DC" #"#757179" 
 
   # Menu
   menu_primary = "#CCCEEE" # Upper header block color
