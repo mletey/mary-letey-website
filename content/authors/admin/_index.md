@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: Mathematician interested in complex systems, physics, and geometry.
+bio: Mathematics PhD student interested in complex systems, physics, and geometry.
 social:
   - icon: paper-plane
     icon_pack: fas
@@ -23,7 +23,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mletey
-  - icon: square-twitter
+  - icon: square-x-twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
 education:
@@ -39,7 +39,7 @@ education:
       year: 2018 - 2022
 superuser: true
 organizations:
-  - name: PhD Student in Applied Mathematics
+  - name: PhD Student in Applied Mathematics at Harvard
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 highlight_name: true
 title: Mary Letey
@@ -49,7 +49,7 @@ email: ""
 ---
 I'm Mary, currently a PhD student in theoretical machine learning supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 
-I enjoy working in a wide range of Applied Maths areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I'm excited to develop techniques for understanding how properties of neural network emerge through complex interactions of operations, and the role that structure in data plays in such theories. 
+I enjoy working in a wide range of applied mathematics areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I'm interested in developing techniques to understand how properties of neural network emerge through complex interactions of operations, and the role that data structure plays in such theories. 
 
 I'm always happy to discuss my work and related topics, please reach out!
 {style="text-align: justify;"}
