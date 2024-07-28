@@ -17,8 +17,8 @@ name = "Mary_Night"
   home_section_even = "#121311"
 
   # link color = text links + buttons on main page
-  link = "#9E9923"
-  link_hover = "#9E6823"
+  link = "#CCCEEE"
+  link_hover = "#C9D8EB"
   #link_decoration = "underline"
   
 # [dark]
