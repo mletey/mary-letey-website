@@ -12,6 +12,7 @@ name = "Mary_Day"
   menu_title = "#000000"
 
   # Backgrounds
+  background = "#FAFAFA"
   home_section_odd = "#FAFAFA"
   home_section_even = "#EDECEE"
 
