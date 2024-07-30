@@ -18,7 +18,7 @@ name = "Mary_Day"
 
   # link color = text links + buttons on main page
   link = "#6166DC"
-  link_hover = "#6197DC"
+  link_hover = "#DCA261"#"#6197DC"
   #link_decoration = "underline"
   
 # [light]
