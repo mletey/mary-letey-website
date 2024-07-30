@@ -8,7 +8,7 @@ name = "Mary_Day"
   # Menu
   menu_primary = "#CCCEEE" # Upper header block color
   menu_text = "#000000" 
-  menu_text_active = "#555563"
+  menu_text_active = "#6166DC"
   menu_title = "#000000"
 
   # Backgrounds
