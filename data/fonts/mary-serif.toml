@@ -17,10 +17,10 @@
 name = "mary-serif"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
+google_fonts = "family=Garamond:wght@400;700&family=Merriweather&family=Roboto+Mono"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lato"
-nav_font = "Lato"
+heading_font = "Garamond"
+body_font = "Garamond"
+nav_font = "Garamond"
 mono_font = "Roboto Mono"
