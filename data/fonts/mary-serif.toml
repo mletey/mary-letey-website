@@ -1,26 +1,26 @@
 # # Font style metadata
 # name = "mary-serif"
 
-# # Optional Google font URL
-google_fonts = "family=Cormorant+Garamond&display=swap"
-#"family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
+# # # Optional Google font URL
+# google_fonts = "family=Cormorant+Garamond&display=swap"
+# #"family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
-# Font families
-heading_font = "Lora"
-body_font = "Lora"
-nav_font = "Lora"
-mono_font = "Cutive Mono"
+# # Font families
+# heading_font = "Lora"
+# body_font = "Lora"
+# nav_font = "Lora"
+# mono_font = "Cutive Mono"
 
 # #color = "#F605EF"
 
 # Font style metadata
-# name = "mary-serif"
+name = "mary-serif"
 
-# # Optional Google font URL
-# google_fonts = "family=Cormorant+Garamond&display=swap&family=Merriweather&family=Roboto+Mono"
+# Optional Google font URL
+google_fonts = "family=Cormorant+Garamond&display=swap,family=Merriweather&family=Roboto+Mono"
 
-# # Font families
-# heading_font = "Courmant Garamond"
-# body_font = "Courmant Garamond"
-# nav_font = "Courmant Garamond"
-# mono_font = "Roboto Mono"
+# Font families
+heading_font = "Courmant Garamond"
+body_font = "Courmant Garamond"
+nav_font = "Courmant Garamond"
+mono_font = "Roboto Mono"
