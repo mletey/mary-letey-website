@@ -16,14 +16,28 @@
 # Font style metadata
 name = "mary-serif"
 
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+# CLASSIC
+# Optional Google font URL
+google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Lato"
 mono_font = "Roboto Mono"
+# -------------------------------------------------
 
+# MINIMAL
+# google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# # Font families
+# heading_font = "Montserrat"
+# body_font = "Roboto"
+# nav_font = "Roboto"
+# mono_font = "Roboto Mono"
+# -------------------------------------------------
+
+# I DONT FUCKING KNOW 
 # # Optional Google font URL
 # google_fonts = "family=Cormorant+Garamond&display=swap,family=Merriweather&family=Roboto+Mono"
 
@@ -32,3 +46,4 @@ mono_font = "Roboto Mono"
 # body_font = "Courmant Garamond"
 # nav_font = "Courmant Garamond"
 # mono_font = "Roboto Mono"
+# -------------------------------------------------
