@@ -2,24 +2,38 @@
 name = "Mary_Day"
 
 [light]
-  # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
-  primary = "#6166DC" #"#757179" 
+  primary = "#223F22" #"#757179" 
 
-  # Menu
-  menu_primary = "#CCCEEE" # Upper header block color
+  menu_primary = "#7EA07F" # Upper header block color
   menu_text = "#000000" 
-  menu_text_active = "#6166DC"
+  menu_text_active = "#223F22"
   menu_title = "#000000"
 
-  # Backgrounds
   background = "#FAFAFA"
   home_section_odd = "#FAFAFA"
   home_section_even = "#EDECEE"
 
-  # link color = text links + buttons on main page
-  link = "#6166DC"
-  link_hover = "#6197DC"
-  #link_decoration = "underline"
+  link = "#223F22"
+  link_hover = "#51482C"
+  
+  # # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
+  # primary = "#6166DC" #"#757179" 
+
+  # # Menu
+  # menu_primary = "#CCCEEE" # Upper header block color
+  # menu_text = "#000000" 
+  # menu_text_active = "#6166DC"
+  # menu_title = "#000000"
+
+  # # Backgrounds
+  # background = "#FAFAFA"
+  # home_section_odd = "#FAFAFA"
+  # home_section_even = "#EDECEE"
+
+  # # link color = text links + buttons on main page
+  # link = "#6166DC"
+  # link_hover = "#6197DC"
+  # #link_decoration = "underline"
   
 # [light]
 #   # Primary = Buttons, links, accent text
