@@ -16,18 +16,29 @@
 # Font style metadata
 name = "mary-serif"
 
-# CLASSIC
+# ROSE
 # Optional Google font URL
-google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+heading_font = "Lora"
+body_font = "Roboto"
+nav_font = "Lora"
+mono_font = "Cutive Mono"
 # -------------------------------------------------
 
-# MINIMAL
+# CLASSIC (THIS LOOKS LIKE SHIT, MIXES SERIF AND NONSERIF)
+# Optional Google font URL
+# google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
+
+# # Font families
+# heading_font = "Lato"
+# body_font = "Merriweather"
+# nav_font = "Lato"
+# mono_font = "Roboto Mono"
+# -------------------------------------------------
+
+# MINIMAL (BASIC BITCH SIMPLISTIC NONSERIF FONT)
 # google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # # Font families
