@@ -13,8 +13,8 @@ name = "Mary_Day"
   home_section_odd = "#FAFAFA"
   home_section_even = "#EDECEE"
 
-  link = "#223F22"
-  link_hover = "#51482C"
+  link = "#497749"
+  link_hover = "#776949"
   
   # # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
   # primary = "#6166DC" #"#757179" 
