@@ -18,7 +18,7 @@ name = "mary-serif"
 
 # CYBERPUNK
 # Optional Google font URL
-google_fonts = "family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700family=Outfit:wght@400"
+google_fonts = "family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Outfit:wght@400"
 #google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
