@@ -49,7 +49,7 @@ email: ""
 ---
 I'm Mary, currently a PhD student in theoretical machine learning supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 
-I enjoy working in a wide range of applied mathematics areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I'm interested in developing techniques to understand how properties of neural networks emerge through complex interactions of operations, and the role that data structure plays in such theories. 
+I enjoy working in a wide range of applied mathematics areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I’m interested in describing the emergence of neural network properties from complex interactions between operations, particularly in the context of structured data.
 
 I'm always happy to discuss my work and related topics, please reach out!
 {style="text-align: justify;"}
