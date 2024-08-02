@@ -1,6 +1,7 @@
 ---
 avatar_filename: avatar.jpg
 bio: Mathematics PhD student interested in complex systems, physics, and geometry.
+logo: logo.png
 social:
   - icon: paper-plane
     icon_pack: fas
