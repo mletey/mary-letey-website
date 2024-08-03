@@ -7,7 +7,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hello There!
+      title: Hello there!
       username: admin
 
   - block: collection
