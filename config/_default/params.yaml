@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Mary Letey, {year}. All content is mine under {license}. 🦦'
+    notice: '© Mary Letey, {year}. All content is mine. 🦦'
     license:
        enable: false
        allow_derivatives: false
