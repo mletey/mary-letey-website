@@ -3,7 +3,7 @@ avatar_filename: avatar.jpg
 bio: Mathematics PhD student interested in complex systems, physics, and geometry.
 logo: logo.png
 social:
-  - icon: at
+  - icon: envelope
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
   - icon: google-scholar
@@ -12,21 +12,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/mary-letey-june-2024.pdf
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: linkedin-in
-    icon_pack: fab
-    link: https://www.linkedin.com/in/maryletey/
-  - icon: github-alt
-    icon_pack: fab
-    link: https://github.com/mletey
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://twitter.com/maryiletey
 education:
   courses:
     - course: PhD in Applied Mathematics
@@ -52,5 +37,5 @@ I'm Mary, currently a PhD student in theoretical machine learning supervised by 
 
 I enjoy working in a wide range of applied mathematics areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I’m interested in describing the emergence of neural network properties from complex interactions between operations, particularly in the context of structured data.
 
-I'm always happy to discuss my work and related topics, please reach out!
+I'm always happy to discuss my work and related topics, please reach out! I can also be found on [linkedin](https://www.linkedin.com/in/maryletey/), [github](https://github.com/mletey), and [X](https://twitter.com/maryiletey).
 {style="text-align: justify;"}
