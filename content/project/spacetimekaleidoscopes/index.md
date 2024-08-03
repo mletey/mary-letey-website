@@ -12,5 +12,9 @@ external_link: ""
 title: Reflection Groups in Lorentzian Spaces
 links: []
 url_code: ""
+image:
+  filename: null
+  focal_point: Smart
+  preview_only: true
 ---
 
