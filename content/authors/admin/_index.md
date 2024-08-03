@@ -40,7 +40,7 @@ education:
       year: 2018 - 2022
 superuser: true
 organizations:
-  - name: PhD Student in Applied Mathematics at Harvard
+  - name: PhD Student @ Harvard
     url: https://pehlevan.seas.harvard.edu/people/mary-letey
 highlight_name: true
 title: Mary Letey
