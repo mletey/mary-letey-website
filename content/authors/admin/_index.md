@@ -3,11 +3,11 @@ avatar_filename: avatar.jpg
 bio: Mathematics PhD student interested in complex systems, physics, and geometry.
 logo: logo.png
 social:
-  - icon: paper-plane
+  - icon: at
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
-  - icon: user-graduate
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
   - icon: cv
     icon_pack: ai
@@ -18,13 +18,13 @@ social:
     icon_pack: emoji
   - icon: 🦦
     icon_pack: emoji
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/maryletey/
-  - icon: github
+  - icon: github-alt
     icon_pack: fab
     link: https://github.com/mletey
-  - icon: square-twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/maryiletey
 education:
