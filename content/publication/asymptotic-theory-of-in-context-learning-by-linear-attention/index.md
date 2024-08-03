@@ -3,7 +3,7 @@ abstract: Transformers have a remarkable ability to learn and execute tasks base
 draft: false
 url_pdf: https://arxiv.org/pdf/2405.11751v1
 publication_types:
-  - "3"
+  - "6"
 authors:
   - Yue M Lu
   - admin
