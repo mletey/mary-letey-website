@@ -33,9 +33,9 @@ first_name: Mary
 last_name: Letey
 email: ""
 ---
-I'm Mary, currently a PhD student in theoretical machine learning supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
+I'm Mary, currently an applied math PhD student working on in theoretical machine learning with [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).
 
-I enjoy working in a wide range of applied mathematics areas, from early-universe cosmology to machine learning and ML4Physics. During my PhD, I’m interested in describing the emergence of neural network properties from complex interactions between operations, particularly in the context of structured data.
+I've enjoyed working in a wide range of mathematics research areas, from early-universe cosmology to group theory to ML4Physics. During my PhD, I’m interested in describing the emergence of neural network properties from complex interactions between operations, particularly in the context of structured data.
 
 I'm always happy to discuss my work and related topics, please reach out! I'm also on [linkedin](https://www.linkedin.com/in/maryletey/), [github](https://github.com/mletey), and [X](https://twitter.com/maryiletey).
 {style="text-align: justify;"}
