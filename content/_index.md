@@ -67,6 +67,6 @@ sections:
       columns: '2'
       view: compact
       spacing:
-        padding: [1, 1, 1, 1]
+        padding: [0.5, 0.5, 0.5, 0.5]
     noindex: true
 ---
