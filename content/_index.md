@@ -10,8 +10,8 @@ sections:
       title: Hello there!
       username: admin
 
-  - block: markdown
-    id: tryagain
+  - block: experience
+    id: news
     content:
      title: Recent News
      subtitle:
@@ -22,10 +22,11 @@ sections:
         organization: ''
         organization_url: 
         title: Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about recent results on in context learning at Kempner Institute's ['Spring into Science' day](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/). Presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
-      - date_start: '2023-07-01'
+      - date: '2023-07-01'
         description: ''
         title: I began a summer research internship at Mila with [Prof Siamak Ravanbakhsh](https://siamak.page)
       - date_start: '2023-06-19'
+        date_end: ''
         description: ''
         organization: ''
         title: I defended my master's thesis! (here's the [working-draft](https://maryiletey.com/PSIEssay2023.pdf))
