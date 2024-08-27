@@ -10,7 +10,7 @@ sections:
       title: Hello there!
       username: admin
 
-  - block: experience
+  - block: accomplishments
     id: news
     content:
      title: Recent News
