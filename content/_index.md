@@ -10,7 +10,7 @@ sections:
       title: Hello there!
       username: admin
 
-  - block: experience
+  - block: markdown
     id: tryagain
     content:
      title: Recent News
