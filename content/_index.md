@@ -49,8 +49,8 @@ sections:
     design:
       columns: '2'
       view: citation
-      # spacing:
-        # padding: [0.5, 0.5, 0.5, 0.5]
+      spacing:
+        padding: [0, 0, 0, 0]
     noindex: true
       
   - block: portfolio
