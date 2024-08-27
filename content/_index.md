@@ -20,11 +20,8 @@ sections:
       count: 5
       offset: 0
       order: desc
-      filters:
-        folders:
-          - news
     design:
-      columns: '1'
+      columns: '2'
       view: date-title-summary
       # spacing:
         # padding: [0, 0, 0, 0]
