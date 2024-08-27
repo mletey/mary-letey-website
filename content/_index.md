@@ -9,7 +9,20 @@ sections:
     content:
       title: Hello there!
       username: admin
-    
+
+  - block: accomplishments
+    id: tryagain
+    content:
+     title: News
+     subtitle:
+     date_format: Jan 2006
+     items:
+       - date_start: '2024-05-29'
+         description: ''
+         organization: ''
+         organization_url: 
+         title: gave a talk
+         
   - block: post
     id: news
     content:
