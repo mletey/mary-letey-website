@@ -9,7 +9,8 @@ sections:
     content:
       title: Hello there!
       username: admin
-- block: collection
+    
+  - block: collection
     id: news
     content:
       title: Recent News
@@ -29,6 +30,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+    
   - block: collection
     id: featured
     content:
