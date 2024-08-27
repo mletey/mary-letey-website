@@ -17,7 +17,7 @@ sections:
      subtitle:
      date_format: Jan 2006
      items:
-      - date_start: '2024-05-29'
+      - date_start: ''
         description: ''
         organization: ''
         organization_url: 
