@@ -16,18 +16,16 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      filters:
+        folders:
+          - news
     design:
-      # Choose a layout view
+      columns: '2'
       view: date-title-summary
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
     
