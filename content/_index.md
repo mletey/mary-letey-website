@@ -22,6 +22,8 @@ sections:
          organization: ''
          organization_url: 
          title: gave a talk
+    design:
+      columns: '2'
          
   - block: collection
     id: news
@@ -35,7 +37,7 @@ sections:
       order: desc
     design:
       columns: '2'
-      view: date-title-summary
+      view: card
       # spacing:
         # padding: [0, 0, 0, 0]
     
