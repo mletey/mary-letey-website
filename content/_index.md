@@ -10,10 +10,10 @@ sections:
       title: Hello there!
       username: admin
 
-  - block: accomplishments
+  - block: collection
     id: tryagain
     content:
-     title: News
+     title: Recent News
      subtitle:
      date_format: Jan 2006
      items:
@@ -32,23 +32,6 @@ sections:
     design:
       columns: '2'
       view: list
-         
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: news
-      count: 5
-      offset: 0
-      order: desc
-      date_format: Jan 2006
-    design:
-      columns: '2'
-      view: card
-      # spacing:
-        # padding: [0, 0, 0, 0]
     
   - block: collection
     id: featured
