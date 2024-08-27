@@ -21,7 +21,7 @@ sections:
         description: ''
         organization: ''
         organization_url: 
-        title: Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about recent results on in context learning at Kempner Institute's ['Spring into Science' day](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/). Presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
+        title: Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about recent results on in-context-learning at Kempner Institute's ['Spring into Science' day](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/). Presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
       - date_start: '2023-07-01'
         date_end: ''
         description: ''
@@ -34,6 +34,8 @@ sections:
     design:
       columns: '2'
       view: list
+      spacing:
+        padding: [0, 0, 1, 0]
     
   - block: collection
     id: featured
@@ -47,8 +49,8 @@ sections:
     design:
       columns: '2'
       view: citation
-      # spacing:
-        # padding: [0, 0, 0, 0]
+      spacing:
+        padding: [0, 1, 0, 0]
     noindex: true
       
   - block: portfolio
@@ -64,7 +66,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: compact
-      # spacing:
-        # padding: [0, 0, 0, 0]
+      spacing:
+        padding: [1, 0, 0, 0]
     noindex: true
 ---
