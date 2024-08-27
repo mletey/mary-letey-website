@@ -35,6 +35,7 @@ sections:
       count: 5
       offset: 0
       order: desc
+      date_format: Jan 2006
     design:
       columns: '2'
       view: card
