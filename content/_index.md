@@ -35,7 +35,7 @@ sections:
       columns: '2'
       view: list
       spacing:
-        padding: [0, 0, 1, 0]
+        padding: [0, 0, 0, 0]
     
   - block: collection
     id: featured
@@ -50,7 +50,7 @@ sections:
       columns: '2'
       view: citation
       spacing:
-        padding: [0, 1, 0, 0]
+        padding: [0.5, 0.5, 0.5, 0.5]
     noindex: true
       
   - block: portfolio
@@ -67,6 +67,6 @@ sections:
       columns: '2'
       view: compact
       spacing:
-        padding: [1, 0, 0, 0]
+        padding: [1, 1, 1, 1]
     noindex: true
 ---
