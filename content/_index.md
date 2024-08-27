@@ -25,7 +25,7 @@ sections:
       - date_start: ''
         date_end: ''
         title: ''
-        description: **Summer 2023** - I began a summer research internship at Mila with [Prof Siamak Ravanbakhsh](https://siamak.page)
+        description: **Summer 2023** I began a summer research internship at Mila with [Prof Siamak Ravanbakhsh](https://siamak.page)
       - date_start: '2023-06-19'
         date_end: ''
         description: ''
