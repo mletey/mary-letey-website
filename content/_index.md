@@ -10,7 +10,7 @@ sections:
       title: Hello there!
       username: admin
     
-  - block: collection
+  - block: posts
     id: news
     content:
       title: Recent News
