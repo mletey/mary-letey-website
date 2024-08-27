@@ -16,7 +16,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      page_type: post
+      page_type: news
       count: 5
       offset: 0
       order: desc
