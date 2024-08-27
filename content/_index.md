@@ -23,7 +23,7 @@ sections:
          organization_url: 
          title: gave a talk
          
-  - block: post
+  - block: collection
     id: news
     content:
       title: Recent News
