@@ -25,7 +25,7 @@ sections:
           - news
     design:
       columns: '2'
-      view: compact
+      view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
     
@@ -34,7 +34,6 @@ sections:
     content:
       title: Publications
       count: 3
-      offset: 0
       filters:
         folders:
           - publication
@@ -51,7 +50,6 @@ sections:
     content:
       title: Projects
       count: 4
-      offset: 0
       filters:
         folders:
           - project
