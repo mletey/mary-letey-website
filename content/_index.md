@@ -25,7 +25,7 @@ sections:
           - news
     design:
       columns: '2'
-      view: date-title-summary
+      view: list
       spacing:
         padding: [0, 0, 0, 0]
     
