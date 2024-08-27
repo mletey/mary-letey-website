@@ -24,10 +24,10 @@ sections:
         folders:
           - news
     design:
-      columns: '2'
+      columns: '1'
       view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+        # padding: [0, 0, 0, 0]
     
   - block: collection
     id: featured
@@ -41,8 +41,8 @@ sections:
     design:
       columns: '2'
       view: citation
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+        # padding: [0, 0, 0, 0]
     noindex: true
       
   - block: portfolio
@@ -58,7 +58,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: compact
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+        # padding: [0, 0, 0, 0]
     noindex: true
 ---
