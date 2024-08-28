@@ -66,7 +66,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       view: compact
-      # spacing:
-        # padding: [0.5, 0.5, 0.5, 0.5]
+      spacing:
+        padding: [0, 0, 0, 0]
     noindex: true
 ---
