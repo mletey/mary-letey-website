@@ -14,12 +14,15 @@ sections:
     id: news
     content:
       title: Recent News
+      text: |+
+        Sup losers.
+        **this is bold** this is a line item
+        **new date** another thing i did.
       items:
         - I woke up.
         - I washed my ass.
     design:
       columns: ‘2’
-      view: list
       spacing:
         padding: [0, 0, 0, 0]
     
