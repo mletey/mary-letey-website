@@ -20,7 +20,7 @@ main:
     url: 'publication/'
     weight: 30
   - name: Projects 
-    url: '#projects'
+    url: 'project/'
     weight: 40
   - name: My new page  # A link title for your page.
     url: 'example/'  # The URL of your page.
