@@ -18,10 +18,10 @@ sections:
      date_format: Jan 2006
      items:
       - date_start: '2024-05-29'
-        description: ''
+        title: ''
         organization: ''
         organization_url: 
-        title: Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about in-context-learning at Kempner Institute's ['Spring into Science' day](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/), and presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
+        description: Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about in-context-learning at Kempner Institute's ['Spring into Science' day](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/), and presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
       - date_start: '2023-07-01'
         date_end: ''
         description: ''
