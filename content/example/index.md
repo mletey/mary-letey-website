@@ -1,5 +1,5 @@
 ---
 title: Notes and Teaching
-summary: ... under construction.
+text: ... under construction.
 
 ---
