@@ -23,7 +23,7 @@ main:
     url: 'project/'
     weight: 40
   - name: Teaching  # A link title for your page.
-    url: 'example/'  # The URL of your page.
+    url: 'notes/'  # The URL of your page.
     weight: 50  # The position of your page in the menu.
 #   - name: Contact
 #     url: '#contact'
