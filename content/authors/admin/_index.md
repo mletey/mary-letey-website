@@ -8,7 +8,7 @@ social:
     link: mailto:maryletey@fas.harvard.edu
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-july-2024.pdf
+    link: uploads/cv.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
