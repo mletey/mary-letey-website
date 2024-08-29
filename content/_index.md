@@ -36,23 +36,7 @@ sections:
       view: list
       spacing:
         padding: [0, 0, 0, 0]
-    
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      count: 2
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-      # spacing:
-        # padding: [0, 0, 0, 0]
-    noindex: true
-      
+        
   - block: portfolio
     id: projects
     content:
