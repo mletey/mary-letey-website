@@ -24,6 +24,6 @@ sections:
     design:
       columns: ‘2’
       spacing:
-        padding: [0.5, 0.5, 0.5, 0.5]
+        padding: [0.1, 0.1, 0.1, 0.1]
     
 ---
