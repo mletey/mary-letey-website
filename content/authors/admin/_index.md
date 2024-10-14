@@ -6,12 +6,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:maryletey@fas.harvard.edu
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
+    display:
+      header: true
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=h3poqqgAAAAJ&hl=en&oi=ao
+    display:
+      header: true
 education:
   courses:
     - course: PhD in Applied Mathematics
