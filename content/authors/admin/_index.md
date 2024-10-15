@@ -48,5 +48,5 @@ I'm Mary, currently an applied math PhD student focusing on the mathematics of m
 
 I've enjoyed working in a wide range of applied math research areas, from early-universe cosmology to group theory to ML4Physics. During my PhD, I’m interested in describing the emergence of neural network properties from complex interactions between operations, particularly in the context of structured data and tasks.
 
-I'm always happy to discuss my work and related topics, please reach out! I'm also on [github](https://github.com/mletey) and [X](https://twitter.com/maryiletey).
+I'm always happy to discuss my work and related topics, please reach out! 
 {style="text-align: justify;"}
