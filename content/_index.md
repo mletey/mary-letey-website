@@ -13,8 +13,10 @@ sections:
   - block: markdown
     id: news
     content:
-      title: Recent News
+      title: News
       text: |+
+        **[Dec 2024]** Will present a workshop paper on exact asymptotics for in-context-learning at [Neurips M3L](https://sites.google.com/view/m3l-2024/home?authuser=0).
+
         **[Summer 2024]** Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about in-context-learning at the [Kempner Institute](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/), and presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
         
         **[July 2023]** Started a summer research internship at Mila with [Prof Siamak Ravanbakhsh](https://siamak.page).
