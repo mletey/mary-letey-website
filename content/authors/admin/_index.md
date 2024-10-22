@@ -15,7 +15,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/CV_fall.pdf
     display:
       header: true
   - icon: google-scholar
