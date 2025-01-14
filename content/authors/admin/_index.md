@@ -8,8 +8,8 @@ social:
     link: mailto:maryletey@fas.harvard.edu
     display:
       header: true
-  - icon: icomoon
-    icon_pack: icon
+  - icon: twitter
+    icon_pack: fab
     link: https://x.com/maryiletey
     display:
       header: true
