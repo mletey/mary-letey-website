@@ -41,8 +41,6 @@ header:
 
 # Site footer
 
-plugins_css: "custom"
-
 footer:
   copyright:
     notice: '© Mary Letey, {year}. All content is mine. 🦦'
