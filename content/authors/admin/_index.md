@@ -46,7 +46,7 @@ email: ""
 ---
 I am a PhD student in Applied Mathematics at Harvard, where I am supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). My work focuses on the mathematics of machine learning. 
 
-My past research spans a range of applied maths areas, from early-universe cosmology to ML4Physics. During my PhD, I’m interested in describing neural computation in the context of structured data and tasks, using tools from statistical physics and geometry. 
+_During my PhD, I’m interested in describing neural computation in the context of structured data and tasks, using tools from statistical physics and geometry._ My current projects focus on analytical analysis of in-context learning using random matrix theory, and the effects of low-dimensional structure on learning dynamics. My past research spans a range of applied maths areas, including early-universe cosmology, group theory, and ML4Physics. 
 
 I'm always happy to discuss my work and related topics, please reach out! 
 {style="text-align: justify;"}
