@@ -15,6 +15,8 @@ sections:
     content:
       title: News
       text: |+
+        **[May 2025]** Awarded a Graduate Fellowship from the [Kempner Institute](https://kempnerinstitute.harvard.edu/education/graduate-fellowship/). 
+    
         **[Dec 2024]** Presented [poster](https://maryiletey.com/M3L24_ICL.pdf) (corresponding [paper](https://openreview.net/pdf?id=Jw3ck7FWZh)) at [Neurips M3L](https://sites.google.com/view/m3l-2024/home?authuser=0).
 
         **[Summer 2024]** Gave a [talk](https://maryiletey.com/icl_asymptotic_kempner_24.pdf) about in-context-learning at the [Kempner Institute](https://kempnerinstitute.harvard.edu/news/kempner-community-springs-into-science/), and presented posters at [DIMACS Modelling Randomness workshop](https://rmt4ai.github.io) and [Princeton ML Theory Summer School](https://mlschool.princeton.edu).
