@@ -44,7 +44,7 @@ first_name: Mary
 last_name: Letey
 email: ""
 ---
-I am a PhD student in Applied Mathematics at Harvard, where I am supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan). My work focuses on the mathematics of machine learning. 
+I am a PhD student in Applied Mathematics at Harvard, where I am supervised by [Professor Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan) and supported by the [Kempner Graduate Fellowship](https://kempnerinstitute.harvard.edu/education/graduate-fellowship/). My work focuses on the mathematics of machine learning. 
 
 _During my PhD, I’m interested in describing neural computation in the context of structured data and tasks, using tools from statistical physics and geometry._ My current projects focus on exact analysis of in-context learning using random matrix theory, and the effects of low-dimensional structure on learning dynamics. My past research spans a range of applied maths areas, including early-universe cosmology, group theory, and ML4Physics. 
 
