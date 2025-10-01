@@ -13,7 +13,7 @@ author_notes:
 publication: ""
 featured: false
 date: 2025-09-30T16:02:38.971Z
-title: Pretrain–Test Task Alignment Governs Generalization in In-Context Learning
+title: Pretrain-Test Task Alignment Governs Generalization in In-Context Learning
 image:
   filename: null
   focal_point: Smart
