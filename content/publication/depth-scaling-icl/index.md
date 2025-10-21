@@ -12,7 +12,7 @@ author_notes:
 publication: ""
 featured: false
 date: 2025-10-01T16:02:38.971Z
-title: Theory of Scaling Laws for In-Context Regression: Depth, Width, Context and Time
+title: Theory of Scaling Laws for In-Context Regression - Depth, Width, Context and Time
 image:
   filename: null
   focal_point: Smart
